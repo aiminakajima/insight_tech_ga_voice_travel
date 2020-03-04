@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "js",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017",
+    "removeComments": true,
+    "types": [
+      "jest"
+    ]
+  },
+  "compileOnSave": true,
+  "include": [
+    "src", "__tests__"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
