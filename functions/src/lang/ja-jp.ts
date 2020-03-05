@@ -3,7 +3,7 @@ import { LanguageInfo } from './language_info';
 export const ja_jp: LanguageInfo =
 {
     // バージョン
-    ver: '1',
+    ver: '2',
      
     // ヘルプ
     help:
@@ -42,7 +42,7 @@ export const ja_jp: LanguageInfo =
     greeting:
     {
         morning:        'おはようございます',
-        afternoon:      'こんにちわ',
+        afternoon:      'こんにちは',
         evening:        'こんばんわ',
     },
     
@@ -76,7 +76,7 @@ export const ja_jp: LanguageInfo =
     thanks:
     {
         text:           'ご協力ありがとうございました。'
-                    +   '最後までいい旅行をお過ごしください！'
+                    +   '最後までいい旅をお過ごしください！'
                     ,
     },
     repeat:
@@ -140,7 +140,7 @@ export const ja_jp: LanguageInfo =
     // SSML設定
     ssml_settings:
     {
-        totalSpeedRate: 100,
+        totalSpeedRate: 110,
         replaceWords:
         [
             {
